@@ -1,19 +1,22 @@
 class Solution {
     public boolean isPalindrome(String s) {
         String lower = s.toLowerCase();
-        String original = "", reversed = "";
+       StringBuilder original = new StringBuilder();
+StringBuilder reversed = new StringBuilder();
 
         for (int i = 0; i < lower.length(); i++) {
-            if ((lower.charAt(i) >= 'a' && lower.charAt(i) <= 'z') || (lower.charAt(i) >= '0' && lower.charAt(i) <= '9')) {
-                original += lower.charAt(i);
+            char ch=lower.charAt(i);
+            if ((ch>= 'a' && ch<= 'z') || (ch >= '0' &&ch <= '9')) {
+                original.append(ch);
             }
         }
         for (int i = lower.length() - 1; i >= 0; i--) {
-            if ((lower.charAt(i) >= 'a' && lower.charAt(i) <= 'z') || (lower.charAt(i) >= '0' && lower.charAt(i) <= '9')) {
-                reversed += lower.charAt(i);
+           char a=lower.charAt(i);
+            if ((a>= 'a' && a<= 'z') || (a >= '0' &&a <= '9')) {
+                reversed.append(a);
             }
         }
-        if (original.equals(reversed)) {
+        if (original.toString().equals(reversed.toString())) {
             return true;
         } else {
             return false;
