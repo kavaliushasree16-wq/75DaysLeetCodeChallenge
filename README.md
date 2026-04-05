@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
