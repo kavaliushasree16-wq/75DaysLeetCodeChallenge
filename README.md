@@ -165,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
