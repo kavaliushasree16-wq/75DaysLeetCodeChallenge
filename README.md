@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
