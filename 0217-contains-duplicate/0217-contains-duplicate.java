@@ -1,16 +1,15 @@
-     import java.util.Arrays;
-     class Solution {
+ 
+
+class Solution {
     public boolean containsDuplicate(int[] nums) {
-   
+        HashMap<Integer,Integer>map=new HashMap<>();
 
-        Arrays.sort(nums);  
-
-        for(int i = 1; i < nums.length; i++){    
-            if(nums[i] == nums[i-1]){
+        for(int num:nums){
+            if(map.containsKey(num)){
                 return true;
             }
+            map.put(num,1);
         }
-
         return false;
     }
-} 
+}
