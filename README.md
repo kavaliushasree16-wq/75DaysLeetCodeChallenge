@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
