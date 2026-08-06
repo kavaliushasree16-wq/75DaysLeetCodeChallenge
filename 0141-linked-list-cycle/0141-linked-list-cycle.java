@@ -24,3 +24,19 @@ public class Solution {
         return false;
     }
 }
+
+/*Hashset method
+
+HashSet<ListNode> set=new Hashset<>();
+
+while(head!=null){
+    if(set.contains(head)){
+        return true;
+    }
+    set.add(head);
+    head=head.next;
+}
+
+return false;
+
+ */
