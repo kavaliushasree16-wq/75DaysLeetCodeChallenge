@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
