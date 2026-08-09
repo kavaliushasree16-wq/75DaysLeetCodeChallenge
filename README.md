@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
