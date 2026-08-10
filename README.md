@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Monotonic Stack
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
