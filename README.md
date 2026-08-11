@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0463-island-perimeter) |
