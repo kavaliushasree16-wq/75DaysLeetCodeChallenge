@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
