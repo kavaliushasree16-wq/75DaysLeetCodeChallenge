@@ -4,7 +4,8 @@ class Solution {
         int n=code.length;
         int ans[]=new int[n];
 
-        if(k==0) return ans;
+        if(k==0)
+        return ans;
 
         if(k>0){
             start=1;
@@ -14,20 +15,20 @@ class Solution {
             end=n-1;
             k=-k;
         }
-
-        int windowsum=0;
-
+int windowSum=0;
         for(int i=start;i<=end;i++){
-            windowsum+=code[i%n];
+windowSum+=code[i%n];
         }
 
         for(int i=0;i<n;i++){
-            ans[i]=windowsum;
-            windowsum-=code[start%n];
+            ans[i]=windowSum;
+            windowSum-=code[start%n];
             start++;
             end++;
-            windowsum+=code[end%n];
+            windowSum+=code[end%n];
         }
+
         return ans;
+
     }
 }
