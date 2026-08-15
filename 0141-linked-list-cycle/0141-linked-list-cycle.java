@@ -17,6 +17,7 @@ public class Solution {
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
+
             if(slow==fast){
                 return true;
             }
@@ -25,18 +26,3 @@ public class Solution {
     }
 }
 
-/*Hashset method
-
-HashSet<ListNode> set=new Hashset<>();
-
-while(head!=null){
-    if(set.contains(head)){
-        return true;
-    }
-    set.add(head);
-    head=head.next;
-}
-
-return false;
-
- */
