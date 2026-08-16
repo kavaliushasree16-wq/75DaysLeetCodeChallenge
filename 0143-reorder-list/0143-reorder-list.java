@@ -12,36 +12,49 @@ class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null)
             return;
-        Stack<ListNode> stack = new Stack<>();
 
-        
-        ListNode temp = head;
-        while (temp != null) {
-            stack.push(temp);
-            temp = temp.next;
-        }
-
-
+        //find middle
         ListNode slow = head;
         ListNode fast = head;
+
         while (fast != null && fast.next != null) {
             slow = slow.next;
-
             fast = fast.next.next;
         }
 
+        //seperate lists
+        ListNode second = slow.next;
+        slow.next = null;
+
+        //reverse second
+        second = reverse(second);
+
+        //merge lists
+        ListNode first = head;
+        while (second != null) {
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
+
+            first.next = second;
+            second.next = temp1;
+
+            first = temp1;
+            second = temp2;
+        }
+
+    }
+
+    private ListNode reverse(ListNode head) {
         ListNode current = head;
-        while (current != slow) {
-            ListNode last = stack.pop();
-            ListNode currentNext = current.next;
+        ListNode prev = null;
 
-            current.next = last;
-            last.next = currentNext;
-
-            current = currentNext;
+        while (current != null) {
+            ListNode next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
 
         }
-        current.next = null;
-
+        return prev;
     }
 }
