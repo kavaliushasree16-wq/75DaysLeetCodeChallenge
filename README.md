@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [1544-make-the-string-great](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1544-make-the-string-great](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
