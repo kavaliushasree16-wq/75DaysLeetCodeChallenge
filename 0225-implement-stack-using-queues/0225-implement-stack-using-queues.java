@@ -1,7 +1,6 @@
 class MyStack {
     Queue<Integer> q=new LinkedList<>();
 
-
     public MyStack() {
         
     }
@@ -13,7 +12,6 @@ class MyStack {
         for(int i=0;i<n-1;i++){
             q.add(q.remove());
         }
-        
     }
     
     public int pop() {
