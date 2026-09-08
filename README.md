@@ -422,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
