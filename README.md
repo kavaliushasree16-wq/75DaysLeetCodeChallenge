@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
