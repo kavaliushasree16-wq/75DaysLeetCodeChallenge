@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
