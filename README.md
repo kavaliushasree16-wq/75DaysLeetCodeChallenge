@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/kavaliushasree16-wq/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
